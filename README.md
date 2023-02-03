@@ -1,5 +1,11 @@
 [![Rank](https://www.codewars.com/users/kurovale/badges/large)](https://www.codewars.com/users/kurovale)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/kurovale/) &nbsp;
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=social&logo=twitter)](https://twitter.com/kuro_vale) &nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=social&logo=gmail)](mailto:jsalcedo218@gmail.com) &nbsp;
+[![Docker hub](https://img.shields.io/badge/-Docker%20Hub-2496ED?style=social&logo=docker)](https://hub.docker.com/u/kurovale) &nbsp;
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=social&logo=postman)](https://www.postman.com/kurovale)
+
 Hello, my name is Julian Salcedo. I am a self-paced backend developer with a deep passion for writing code.
 I love learning something new every day and sharing it through my projects.
 
@@ -15,5 +21,3 @@ You can see all of my projects [here](https://github.com/search?o=desc&q=user%3A
 | Frontend Framework | [![TODO](https://img.shields.io/badge/-TODO-black?style=flat-square)](#profile) |
 | Database | [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/search?q=user%3Akuro-vale+mysql) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/search?q=user%3Akuro-vale+postgresql) [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/search?q=user%3Akuro-vale+sqlite) [![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://github.com/search?q=user%3Akuro-vale+sql-server) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/search?q=user%3Akuro-vale+mongodb) [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://github.com/search?q=user%3Akuro-vale+redis) |
 | Methodology | [![API](https://img.shields.io/badge/-RestAPI-black?style=flat-square)](https://github.com/search?q=user%3Akuro-vale+rest-api) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://github.com/search?q=user%3Akuro-vale+graphql) [![JWT](https://tinyurl.com/3crpnbkp)](https://github.com/search?q=user%3Akuro-vale+jwt) |
-| Other Repository Sources | [![Docker hub](https://img.shields.io/badge/-Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/kurovale) [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/kurovale) |
-| Social | [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/kurovale) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurovale/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kuro_vale) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jsalcedo218@gmail.com) [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/kurovale/badges) |
