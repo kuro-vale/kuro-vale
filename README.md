@@ -1,10 +1,10 @@
 [![Rank](https://www.codewars.com/users/kurovale/badges/large)](https://www.codewars.com/users/kurovale)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/kurovale/) &nbsp;
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=social&logo=twitter)](https://twitter.com/kuro_vale) &nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=social&logo=gmail)](mailto:jsalcedo218@gmail.com) &nbsp;
 [![Docker hub](https://img.shields.io/badge/-Docker%20Hub-2496ED?style=social&logo=docker)](https://hub.docker.com/u/kurovale) &nbsp;
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=social&logo=postman)](https://www.postman.com/kurovale)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=social&logo=postman)](https://www.postman.com/kurovale) &nbsp;
+[![MS Learn](https://tinyurl.com/53m7uuas)](https://docs.microsoft.com/en-us/users/juliansalcedo-0846/transcript/3v28t0gqrmjknzv)
 
 Hello, my name is Julian Salcedo. I am a self-paced backend developer with a deep passion for writing code.
 I love learning something new every day and sharing it through my projects.
